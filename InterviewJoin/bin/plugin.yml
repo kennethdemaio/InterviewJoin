@@ -1,0 +1,5 @@
+main: cran.juice.coders.main
+name: InterviewJoin
+description: Interview users before they have permission to move!
+version: 1.0
+commands:
