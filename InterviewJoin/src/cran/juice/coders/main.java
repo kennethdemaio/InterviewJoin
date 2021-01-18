@@ -39,7 +39,7 @@ public class main extends JavaPlugin implements Listener{
 	
 	@Override
 	public void onDisable() {
-		System.out.println("Interview Join Enabled");
+		System.out.println("Interview Join Disabled");
 		
 	}
 }
