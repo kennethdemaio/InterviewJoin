@@ -11,7 +11,7 @@ public class main extends JavaPlugin implements Listener{
 	@Override
 	public void onEnable() {
 		
-		System.out.println("Test plugin enabled");
+		System.out.println("Interview Join Enabled");
 		
 		this.getConfig().options().copyDefaults();
 		saveDefaultConfig();	
@@ -39,7 +39,7 @@ public class main extends JavaPlugin implements Listener{
 	
 	@Override
 	public void onDisable() {
-		System.out.println("Test plugin disabled");
+		System.out.println("Interview Join Enabled");
 		
 	}
 }
