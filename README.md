@@ -1,5 +1,5 @@
 # InterviewJoin
-minecraft plugin
+
 On join new players can not move! Use this to turn whitelist off safely as the player will be stuck, movement forbidding until the correct permission is given.
 
 -----------------------------------------------------------------------------------------------------
